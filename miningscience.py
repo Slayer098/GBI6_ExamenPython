@@ -1,7 +1,5 @@
+# Primera funcion
 def download_pubmed (keyword):
-    """
-     muestra como resultado en una lista de los id de la busqueda en pubmed.
-    """
     from Bio import Entrez
     from Bio import SeqIO
     from Bio import GenBank 
@@ -22,16 +20,13 @@ def download_pubmed (keyword):
     return (lista_id) 
 
 
-##función mining_pubs 
+# Segunda funcion
 import csv 
 import re
 import pandas as pd 
 from collections import Counter
 
 def mining_pubs(tipo):
-    """
-    Función que pide como entrada tres variables que pueden ser "DP", "AU" y "AD" y de resultado muestra una dataframe
-    """
     with open("pubmed-EcuadorGen-set.txt", errors="ignore") as f: 
         texto = f.read() 
     if tipo == "DP":
