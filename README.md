@@ -18,3 +18,6 @@
 - Anaconda: 3
 # Módulos/paquetes y utilizados
 Explicación de la data utilizada
+- pubmed-EcuadorGen-set: aqui se encuentra la data para resolver el ejercicio 1 y 2, se encuentra informacion de los autores 
+- alineación: esta la secuencia genetica de mi especie investigada.
+- sequence: lo descargue de NCBI y elegi los 10 primeros
