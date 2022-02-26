@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- saved from url=(0103)https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-055902-0122-45464821-p1m -->
-<html class=" js flexbox canvas canvastext no-touch rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent no-applicationcache" lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<html class=" js flexbox canvas canvastext no-touch rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface the generatedcontent no-applicationcache" lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
    
   <title>Results &lt; MUSCLE &lt; Multiple Sequence Alignment &lt; EMBL-EBI</title> 
   <meta name="description" content="MUSCLE stands for MUltiple Sequence Comparison by Log-Expectation. MUSCLE is claimed to achieve both better average accuracy and better speed than ClustalW2 or T-Coffee, depending on the chosen options. "> 
